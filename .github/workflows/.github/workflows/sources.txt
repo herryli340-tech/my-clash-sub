@@ -1,0 +1,8 @@
+# 公开 Clash/Mihomo YAML 源
+https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/clash.yaml
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml
+https://raw.githubusercontent.com/share-daily/node/main/clash.yaml
+https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/clash.yaml
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
+
+# 你以后可以继续在这里添加自己的公开订阅，一行一个。
