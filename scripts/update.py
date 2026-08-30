@@ -8,7 +8,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = ROOT / "sources.txt"
-OUT = ROOT / "dist" / "clash.yaml"
+OUT = ROOT / "clash.yaml"
 
 UA = "clash-auto-update/2.0"
 TIMEOUT = 20
