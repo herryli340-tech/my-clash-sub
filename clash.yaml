@@ -1,0 +1,5 @@
+# 第一次运行 GitHub Actions 后会自动生成完整订阅
+proxies: []
+proxy-groups: []
+rules:
+  - MATCH,DIRECT

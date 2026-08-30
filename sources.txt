@@ -1,0 +1,5 @@
+# 每行一个公开 Clash/Mihomo 订阅源；脚本会自动去重、清洗并抽样。
+https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml
+https://raw.githubusercontent.com/wzmwayne/proxy-node/main/output/aio/clash.yaml
+https://raw.githubusercontent.com/liangzaiZJL/free-clash-nodes/main/output/best-nodes.yaml
